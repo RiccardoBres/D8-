@@ -82,7 +82,7 @@ div.leftpart {
     height: 175%;
     border-right: 1px solid lightgray;
     overflow-y: scroll;
-    padding-top: 40px;   
+    padding-top: 70px;   
 }
 div.tumb {
     display: flex;
